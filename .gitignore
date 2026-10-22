@@ -1,0 +1,9 @@
+tools/
+*.log
+*.err
+*.out
+server_restart.log
+*.png
+*.tar
+game/.godot/
+
